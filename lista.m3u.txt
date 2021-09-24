@@ -1,0 +1,155 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 ,TLC En Vivo
+https://edge10-hr.cvattv.com.ar/live/c2live/TLC/SA_Live_dash_enc/dash/TLC-audio_AACL_spa_144800_51=144800.track_id=20000-init.mp4
+#EXTINF:-2 tvg-logo="",Caracol En Vivo
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/65is893586k.m3u8?s=XsQUzVIi60WXehI6iE0APg&e=1632481392
+#EXTINF:-3 ,RCN En Vivo
+https://tna5.bozztv.com/rsdvdfhbsrthb/index.m3u8
+#EXTINF:-4 , Star Premium Series 
+https://edge10-hr.cvattv.com.ar/live/c3eds/FOX1HD/SA_Live_dash_enc_2A/dash/FOX1HD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-5 , Star Channel
+https://edge10-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/dash/FOXHD-audio_20002=145200.track_id=20002-init.mp4
+
+#EXTINF:-6 , Star Premium Movies
+https://edge10-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/dash/FoxMoviesHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-7 , Star Premium Comedy
+https://edge10-hr.cvattv.com.ar/live/live/FoxComedy/SA_Live_dash_enc_2A/dash/FoxComedy-audio_AACL_eng_144800_50=144800.track_id=20002-init.mp4
+
+#EXTINF:-8 , Star Premium Family
+https://edge10-hr.cvattv.com.ar/live/live/FoxFamily/SA_Live_dash_enc_2A/dash/FoxFamily-audio_AACL_eng_144800_50=144800.track_id=20000-init.mp4
+#EXTINF:-9 , AXN HD
+https://edge10-hr.cvattv.com.ar/live/live/AXNHD/SA_Live_dash_enc_2A/dash/AXNHD-audio_AACL_eng_144800_51=144800.track_id=20002-init.mp4
+#EXTINF:-10 , Cine Canal HD
+https://edge10-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/dash/CinecanalHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-11 , Cine Max
+https://edge10-hr.cvattv.com.ar/live/c2live/Cinemax/SA_Live_dash_enc_2A/dash/Cinemax-audio_20000=145200.track_id=20000-init.mp4
+#EXTINF:-12 , Golden
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/lnxn10nmtnl5.m3u8?s=UtzEQ1JUhagOqtxzTO1c0A&e=1632483095
+#EXTINF:-13 , Space
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1632461077~exp=1632461677~acl=/*~hmac=d3d848e1f5346bcb64dd87639259dea3609dd7705a293213fd67e4955de3e72f
+#EXTINF:-14 , Studios Universal
+https://edge-live34-hr.cvattv.com.ar//live/c2live/Studio_Universal/SA_Live_dash_enc_2A/dash/Studio_Universal-video=530000.track_id=10005-init.mp4
+#EXTINF:-15 , Universal Channel
+https://edge10-hr.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_Live_dash_enc_2A/dash/Universal_Channel_HD-audio_AACL_eng_144800_52=144800.track_id=20003-init.mp4
+#EXTINF:-16 , TNT
+https://edge10-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/dash/TNT_HD_Arg-audio_20001=144800.track_id=20001-init.mp4
+#EXTINF:-17  , TNT Series
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/master.m3u8?hdnea=st=1632461569~exp=1632462169~acl=/*~hmac=6235e6e95c11c97002175ac5e1a620d74a538e1cbc77e4bfe495b1c2e6829e32
+#EXTINF:-18 , HBO
+https://edge10-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/dash/HBOHD-audio_20001=144800.track_id=20001-init.mp4
+#EXTINF:-19 , HBO2
+https://edge10-hr.cvattv.com.ar/live/c2live/HBO_2/SA_Live_dash_enc_2A/dash/HBO_2-audio_AACL_spa_144800_51=144800.track_id=20001-init.mp4
+#EXTINF:-20 , HBO Family
+https://edge10-hr.cvattv.com.ar/live/c2live/HBO_Family/SA_Live_dash_enc_2A/dash/HBO_Family-audio_AACL_eng_144800_50=144800.track_id=20001-init.mp4
+#EXTINF:-21 , Paramount Channel
+https://edge10-hr.cvattv.com.ar/live/live/Paramount/SA_Live_dash_enc_2A/dash/Paramount-audio_AACL_eng_144800_52=144800.track_id=20001-init.mp4
+#EXTINF:-22 , HBO PLUS
+https://edge-live34-hr.cvattv.com.ar//live/c2live/HBO_Plus/SA_Live_dash_enc_2A/dash/HBO_Plus-video=379968.track_id=10015-init.mp4
+#EXTINF:-23 , HBO  Signature
+https://edge-live34-hr.cvattv.com.ar//live/c2live/HBO_Signature/SA_Live_dash_enc/dash/HBO_Signature-video=379968.track_id=10015-init.mp4
+#EXTINF:-24 ,Azteca Siete
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/yv4z9a.m3u8?s=uUoegS25AA4Ce2NyO0OUtQ&e=1632484202
+
+#EXTINF:-25 , HBO MUNDI
+https://edge-live34-hr.cvattv.com.ar//live/c2live/Max_HD/SA_Live_dash_enc_2A/dash/Max_HD-video=604000.track_id=10006-init.mp4
+#EXTINF:-26 , HBO EXTREME
+https://edge-live34-hr.cvattv.com.ar//live/c2live/Max_Prime_HD/SA_Live_dash_enc_2A/dash/Max_Prime_HD-video=604000.track_id=10012-init.mp4
+#EXTINF:-27 , Star Life
+https://edge-live34-hr.cvattv.com.ar//live/c2live/Fox_Life/SA_Live_dash_enc_2A/dash/Fox_Life-video=530000.track_id=10011-init.mp4
+#EXTINF:-28 , FMX
+https://edge-live34-hr.cvattv.com.ar//live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/dash/TheFilmZoneHD-video=604000.track_id=10006-init.mp4
+#EXTINF:-29 , FX HD
+https://edge-live34-hr.cvattv.com.ar//live/c3eds/FXHD/SA_Live_dash_enc_2A/dash/FXHD-video=678000.track_id=10008-init.mp4
+#EXTINF:- 30 , A&E
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/99_.m3u8?token=UeeatH7swHLkH8k5Os5HrA&expires=1632471076&ip=186.82.86.250
+#EXTINF:- 31 , TCM
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/152_.m3u8?token=Rbu9XUe4jkBIMUiGW_Q6OA&expires=1632471189&ip=186.82.86.250
+#EXTINF:-32 , MTV
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/87_.m3u8?token=pA_tkeKg73IWGwzGoQI2UA&expires=1632471281&ip=186.82.86.250
+#EXTINF:-33 , Tru Tv
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/137_.m3u8?token=kgs_fQGYBAkfuofeSTu7Zw&expires=1632471353&ip=186.82.86.250
+#EXTINF:-34 , Disney Jr
+https://edge10-hr.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/dash/DisneyJr-audio_AACL_eng_144800_51=144800.track_id=20001-init.mp4
+#EXTINF:-35 , Disney Channel
+https://edge10-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/dash/DisneyChannelHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-36 , Disney XD
+https://edge10-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/dash/DisneyChannelHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-37 , Discovery Kids
+https://edge10-hr.cvattv.com.ar/live/c2live/Discovery_Kids/SA_Live_dash_enc_2A/dash/Discovery_Kids-audio_AACL_spa_144800_51=144800.track_id=20001-init.mp4
+#EXTINF:-38 , Baby Tv
+https://edge10-hr.cvattv.com.ar/live/live/BabyTV/SA_Live_dash_enc_2A/dash/BabyTV-audio_AACL_spa_144800_50=144800.track_id=20000-init.mp4
+#EXTINF:-39 , NatGeo Kids
+https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_Live_dash_enc/dash/NatGeo_Kids-audio_AACL_spa_144800_50=144800.track_id=20000-init.mp4
+#EXTINF:-40 ,Nickelodeon
+https://edge10-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/dash/Nickelodeon-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-14
+
+#EXTINF:-41 , NickJunior
+https://edge10-hr.cvattv.com.ar/live/c2live/Nick_Jr/SA_Live_dash_enc_2A/dash/Nick_Jr-audio_AACL_eng_144800_50=144800.track_id=20001-init.mp4
+#EXTINF:-42 , Cartoon Network
+https://edge10-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/dash/CartoonNetwork-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-43 , Boomerang
+https://edge10-hr.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc/dash/Boomerang-audio_AACL_spa_144800_51=144800.track_id=20002-init.mp4
+#EXTINF:-44 , Tooncats
+https://edge10-hr.cvattv.com.ar/live/c2live/Tooncast/SA_Live_dash_enc_2A/dash/Tooncast-audio_AACL_spa_144800_50=144800.track_id=20000-init.mp4
+#EXTINF:-45 , Animal Planet
+https://edge10-hr.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_dash_enc_2A/dash/AnimalPlanet-audio_AACL_eng_144800_50=144800.track_id=20000-init.mp4
+#EXTINF:-46 , Discovery Channel
+https://edge10-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/dash/DiscoveryHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-47 , Discovery TURBO
+https://edge10-hr.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_dash_enc_2A/dash/DiscoveryTurbo-audio_20000=145200.track_id=20000-init.mp4
+#EXTINF:-48 , ID Investigación Discovery
+https://edge10-hr.cvattv.com.ar/live/live/ID/SA_Live_dash_enc/dash/ID-audio_AACL_spa_144800_51=144800.track_id=20000-init.mp4
+#EXTINF:-49 , NatGeo Wild
+https://edge10-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/dash/NatGeoWildHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-50 , National Geograpi
+https://edge10-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/dash/NatGeoHD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-51 , Histoy HD
+https://edge10-hr.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/dash/HistoryHD-audio_AACL_eng_144800_52=144800.track_id=20003-init.mp4
+#EXTINF:-52 , History 2 
+https://edge10-hr.cvattv.com.ar/live/c2live/History_2/SA_Live_dash_enc_2A/dash/History_2-audio_AACL_eng_144800_52=144800.track_id=20004-init.mp4
+#EXTINF:-53 , H&H Discovery
+https://edge10-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/dash/DiscoveryHomeHealthHD-audio_20002=145200.track_id=20002-init.mp4
+#EXTINF:-54 , Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-55 , Werner Tv
+https://edge10-hr.cvattv.com.ar/live/live/WarnerHD/SA_Live_dash_enc_2A/dash/WarnerHD-audio_AACL_eng_144800_52=144800.track_id=20003-init.mp4
+#EXTINF:-56 , Sony Channel
+https://edge10-hr.cvattv.com.ar/live/live/SonyHD/SA_Live_dash_enc_2A/dash/SonyHD-audio_AACL_eng_144800_52=144800.track_id=20003-init.mp4
+#EXTINF:-57 , Star Sports Premium
+https://edge10-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/dash/Fox_Sports_Premiun_HD-audio_20001=145200.track_id=20001-init.mp4
+#EXTINF:-58 ,Star Sport
+https://edge10-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/dash/FoxSports-audio_20001=145200.track_id=20001-init.mp4
+#EXTINF:-59 , Star Sport 2
+https://edge10-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/dash/FoxSports2HD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-60 , Star Sport 3
+https://edge10-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/dash/FoxSports3HD-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-61 , ESPN
+https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/dash/ESPN2HD-audio_20001=145200.track_id=20001-init.mp4
+#EXTINF:-62 , ESPN 2
+https://edge10-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_Live_dash_enc_2A/dash/ESPN_HD-audio_20001=145200.track_id=20001-init.mp4
+#EXTINF:-63 , ESPN 3
+https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/dash/ESPN3-audio_20000=144800.track_id=20000-init.mp4
+#EXTINF:-64 , Food
+https://edge-live34-hr.cvattv.com.ar//live/c2live/Food_Network/SA_Live_dash_enc_2A/dash/Food_Network-video=530000.track_id=10000-init.mp4
+#EXTINF:-65 , El Gourmet
+https://edge-live34-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_Live_dash_enc_2A/dash/Gourmet-video=530000.track_id=10000-init.mp4
+#EXTINF:-66 , Canal 1
+https://tna5.bozztv.com/u1sdfserdgreh/index.m3u8
+#EXTINF:-67 , Coraje el perro cobarde 
+https://globaltvplus.club:25463/live/DarkPlayOficial/Duraremos145236987ads/73.m3u8
+#EXTINF:-68 , El Chavo
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-69 , NBA TV
+https://edge-live34-hr.cvattv.com.ar//live/c2live/NBA_TV/SA_Live_dash_enc_2A/dash/NBA_TV-video=530000.track_id=10005-init.mp4
+#EXTINF:-70 , Los Simsons
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-71 , Venus
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/126_.m3u8?token=SxEkJit-oUpQYLJsWMfK8Q&expires=1632475610&ip=186.82.86.250
+#EXTINF:-72 , Brazzer Tv
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/135_.m3u8?token=NHkllCVwdYni0jk78eT60g&expires=1632475720&ip=186.82.86.250
+#EXTINF:-73 , Terro
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/196_.m3u8?token=ZdjGgMIZhLUhNe0TizRb7Q&expires=1632475833&ip=186.82.86.250
